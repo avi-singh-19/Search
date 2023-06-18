@@ -27,6 +27,12 @@ input[type=submit] {
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
+    color: white;
+    width: 175px;
+    height: 35px;
+    background-color: #3c39db;
+    border-radius: 50px;
+    font-size: 1em;
 }
 
 .lb  {
