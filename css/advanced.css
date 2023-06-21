@@ -1,10 +1,21 @@
 body {
-    background-color: grey;
+    background-color: #212121;
     font-family: sans-serif;
+    text-align: center;
+    color: white;
 }
 
 h1{
     text-align: center;
+}
+
+a:link, a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: cyan
 }
 
 input[type=text] {
