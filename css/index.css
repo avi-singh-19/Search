@@ -45,14 +45,14 @@ input[type=submit] {
 .search {
     margin: 0;
     position: absolute;
-    top: 17%;
+    top: 25%;
     left: 50%;
 }
 
 .lucky {
     margin: 0;
     position: absolute;
-    top: 23%;
+    top: 31%;
     left: 50%;
 }
 
